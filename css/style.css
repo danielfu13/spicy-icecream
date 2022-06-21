@@ -1,0 +1,27 @@
+
+
+.jumbotron {
+    text-align: center;
+    background-color: rgba(47, 63, 134, 0.616);
+    color: black;
+    border-radius: 0;
+    border-bottom: 5px solid black;
+  }
+
+  
+.lowUV{
+  background-color: green;
+}
+.mediumUV{
+  background-color: yellow;
+}
+.highUV{
+  background-color: orange;
+}
+.veryhighUV{
+  background-color: red;
+}
+
+.exthighUV{
+  background-color: purple;
+}
