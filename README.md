@@ -1,6 +1,6 @@
 # 06 Server-Side APIs: Weather Dashboard
 
-## This project is a weather dashboard that uses third-party APIs to allow developers to access data and functionality by making specific requests to a URL. The purpose of this project was to use [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retreive weather data for different cities. This project helps show the weather in different cities for the next 5 days along with information about the UV index. In this project, I learned how to pull data from third-party APIs and use it to display information on a webpage. 
+This project is a weather dashboard that uses third-party APIs to allow developers to access data and functionality by making specific requests to a URL. The purpose of this project was to use [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retreive weather data for different cities. This project helps show the weather in different cities for the next 5 days along with information about the UV index. In this project, I learned how to pull data from third-party APIs and use it to display information on a webpage. 
 
 ## Table of Contents
 - [Installation](#installation)
